@@ -1,6 +1,5 @@
 # reboot2023
-My first Repository!
+My first Repository! For Rebbot 1.0 in 2023.
+Just learning how things work.
 
-## My first joke on github
-
-cats
+catsa are cool!
